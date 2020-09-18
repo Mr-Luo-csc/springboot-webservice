@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f3bd824f-bf94-48f5-ab6d-ac772a12779f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -102,6 +101,7 @@
       <option name="presentableId" value="Default" />
       <updated>1600329353594</updated>
       <workItem from="1600329355684" duration="7195000" />
+      <workItem from="1600391507380" duration="662000" />
     </task>
     <servers />
   </component>
@@ -113,6 +113,10 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="533" y="166" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1600330239886" />
+    <state x="144" y="79" key="DiffContextDialog" timestamp="1600391884044">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="144" y="79" key="DiffContextDialog/0.0.1440.900@0.0.1440.900" timestamp="1600391884044" />
     <state width="1398" height="309" key="GridCell.Tab.0.bottom" timestamp="1600358791563">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
@@ -161,6 +165,10 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1398" height="303" key="GridCell.Tab.2.right/0.0.1440.900@0.0.1440.900" timestamp="1600358788361" />
+    <state x="477" y="179" key="RollbackChangesDialog" timestamp="1600391884828">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="477" y="179" key="RollbackChangesDialog/0.0.1440.900@0.0.1440.900" timestamp="1600391884828" />
     <state x="229" y="23" width="1024" height="813" key="SettingsEditor" timestamp="1600332936664">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
