@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f3bd824f-bf94-48f5-ab6d-ac772a12779f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,6 +64,15 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
+  <component name="RunManager">
+    <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot-webservice" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.luozhipeng.webservice.Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -79,7 +86,7 @@
       <workItem from="1600329355684" duration="7195000" />
       <workItem from="1600391507380" duration="1905000" />
       <workItem from="1600416879085" duration="3873000" />
-      <workItem from="1600506254685" duration="840000" />
+      <workItem from="1600506254685" duration="2664000" />
     </task>
     <servers />
   </component>
@@ -108,10 +115,10 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="533" y="166" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1600330239886" />
-    <state x="144" y="79" key="DiffContextDialog" timestamp="1600507133914">
+    <state x="144" y="79" key="DiffContextDialog" timestamp="1600511027600">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="144" y="79" key="DiffContextDialog/0.0.1440.900@0.0.1440.900" timestamp="1600507133914" />
+    <state x="144" y="79" key="DiffContextDialog/0.0.1440.900@0.0.1440.900" timestamp="1600511027600" />
     <state width="1398" height="226" key="GridCell.Tab.0.bottom" timestamp="1600507139974">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
@@ -160,10 +167,10 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1398" height="303" key="GridCell.Tab.2.right/0.0.1440.900@0.0.1440.900" timestamp="1600358788361" />
-    <state x="477" y="179" key="RollbackChangesDialog" timestamp="1600507135554">
+    <state x="477" y="179" key="RollbackChangesDialog" timestamp="1600511344375">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="477" y="179" key="RollbackChangesDialog/0.0.1440.900@0.0.1440.900" timestamp="1600507135554" />
+    <state x="477" y="179" key="RollbackChangesDialog/0.0.1440.900@0.0.1440.900" timestamp="1600511344375" />
     <state x="229" y="23" width="1024" height="813" key="SettingsEditor" timestamp="1600332936664">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
