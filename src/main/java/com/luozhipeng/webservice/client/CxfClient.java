@@ -31,11 +31,11 @@ public class CxfClient {
             jaxWsProxyFactoryBean.setAddress(address);
             //设置接口类型
             jaxWsProxyFactoryBean.setServiceClass(CommonService.class);
-            //创建一个代理接口实现
+            //创建一个代理接口实现[todo 标记打印输出日志,debug调试看]
             CommonService commonService = (CommonService) jaxWsProxyFactoryBean.create();
             //数据准备
             String data = "I'm luozhipeng from changsha";
-            //调用代理接口的方法并且返回结果
+            //调用代理接口的方法并且返回结果[todo 标记打印输出日志,debug调试看]
             String result = commonService.sayHello(data);
             System.out.println("返回结果: " + result);
         } catch (Exception e) {

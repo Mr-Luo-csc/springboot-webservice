@@ -3,6 +3,12 @@
   <component name="ChangeListManager">
     <list default="true" id="f3bd824f-bf94-48f5-ab6d-ac772a12779f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/luozhipeng/webservice/client/CxfClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/luozhipeng/webservice/client/CxfClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/luozhipeng/webservice/Application.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/luozhipeng/webservice/Application.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/luozhipeng/webservice/client/CxfClient.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/luozhipeng/webservice/client/CxfClient.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/luozhipeng/webservice/service/CommonService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/luozhipeng/webservice/service/CommonService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/luozhipeng/webservice/service/impl/CommonServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/luozhipeng/webservice/service/impl/CommonServiceImpl.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +68,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
   </component>
   <component name="RunManager">
     <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
@@ -119,38 +125,38 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="144" y="79" key="DiffContextDialog/0.0.1440.900@0.0.1440.900" timestamp="1600511027600" />
-    <state width="1398" height="226" key="GridCell.Tab.0.bottom" timestamp="1600507139974">
+    <state width="1398" height="214" key="GridCell.Tab.0.bottom" timestamp="1600678683039">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="226" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1600507139974" />
-    <state width="1398" height="226" key="GridCell.Tab.0.center" timestamp="1600507139972">
+    <state width="1398" height="214" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1600678683039" />
+    <state width="1398" height="214" key="GridCell.Tab.0.center" timestamp="1600678683035">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="226" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1600507139972" />
-    <state width="1398" height="226" key="GridCell.Tab.0.left" timestamp="1600507139971">
+    <state width="1398" height="214" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1600678683035" />
+    <state width="1398" height="214" key="GridCell.Tab.0.left" timestamp="1600678683034">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="226" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1600507139971" />
-    <state width="1398" height="226" key="GridCell.Tab.0.right" timestamp="1600507139973">
+    <state width="1398" height="214" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1600678683034" />
+    <state width="1398" height="214" key="GridCell.Tab.0.right" timestamp="1600678683037">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="226" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1600507139973" />
-    <state width="1398" height="226" key="GridCell.Tab.1.bottom" timestamp="1600507139977">
+    <state width="1398" height="214" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1600678683037" />
+    <state width="1398" height="320" key="GridCell.Tab.1.bottom" timestamp="1600678683028">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="226" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1600507139977" />
-    <state width="1398" height="226" key="GridCell.Tab.1.center" timestamp="1600507139975">
+    <state width="1398" height="320" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1600678683028" />
+    <state width="1398" height="320" key="GridCell.Tab.1.center" timestamp="1600678683024">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="226" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1600507139975" />
-    <state width="1398" height="226" key="GridCell.Tab.1.left" timestamp="1600507139975">
+    <state width="1398" height="320" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1600678683024" />
+    <state width="1398" height="320" key="GridCell.Tab.1.left" timestamp="1600678683023">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="226" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1600507139975" />
-    <state width="1398" height="226" key="GridCell.Tab.1.right" timestamp="1600507139976">
+    <state width="1398" height="320" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1600678683023" />
+    <state width="1398" height="320" key="GridCell.Tab.1.right" timestamp="1600678683026">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="226" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1600507139976" />
+    <state width="1398" height="320" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1600678683026" />
     <state width="1398" height="303" key="GridCell.Tab.2.bottom" timestamp="1600358788362">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
@@ -171,10 +177,11 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="477" y="179" key="RollbackChangesDialog/0.0.1440.900@0.0.1440.900" timestamp="1600665802449" />
-    <state x="229" y="23" width="1024" height="813" key="SettingsEditor" timestamp="1600332936664">
+    <state x="229" y="23" width="1024" height="813" key="SettingsEditor" timestamp="1600678609006">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="229" y="23" width="1024" height="813" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1600332936664" />
+    <state x="229" y="23" width="1024" height="813" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1600678609006" />
+    <state x="229" y="44" key="SettingsEditor/0.23.1440.816@0.23.1440.816" timestamp="1600678522192" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
