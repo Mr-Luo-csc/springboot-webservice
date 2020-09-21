@@ -17,27 +17,12 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectId" id="1hob56bbRFPfaoDftMRWGhV7CCn" />
+  <component name="ProjectId" id="1hocJNXWnMdBGSUgK6FlIrMa6DE" />
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
-  </component>
-  <component name="RunManager">
-    <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
-      <module name="springboot-webservice" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.luozhipeng.webservice.Application" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="482" y="179" key="RollbackChangesDialog" timestamp="1600680218788">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state x="482" y="179" key="RollbackChangesDialog/0.0.1440.900@0.0.1440.900" timestamp="1600680218788" />
   </component>
 </project>
