@@ -12,6 +12,9 @@ import org.apache.cxf.jaxws.endpoint.dynamic.JaxWsDynamicClientFactory;
  **/
 public class CxfClient {
 
+    /**************************************/
+    /** 理解:使用代理的方式调用webservice服务 */
+    /**************************************/
     public static void main(String[] args) {
         client1();
     }

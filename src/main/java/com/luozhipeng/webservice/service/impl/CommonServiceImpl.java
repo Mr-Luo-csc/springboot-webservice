@@ -12,7 +12,7 @@ import javax.jws.WebService;
  **/
 @SuppressWarnings("WSReferenceInspection")
 @WebService(serviceName = "CommonService",
-        targetNamespace = "http://service.luozhipeng.com/",
+        targetNamespace = "http://webservice.luozhipeng.com/",
         endpointInterface = "com.luozhipeng.webservice.service.CommonService")
 @Component
 public class CommonServiceImpl implements CommonService {
